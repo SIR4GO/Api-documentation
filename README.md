@@ -7,3 +7,6 @@ Api documentation is a microservice which discover all microservices domains whi
 
 
 # project repository (private)
+
+
+# project (lagorta) for etisalat service provider 
